@@ -1,0 +1,11 @@
+body {
+    font-family: 'Georgia', serif; /* Font klasik untuk teks */
+    color: #333;
+}
+h1, h2, h3 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Font modern untuk judul */
+    letter-spacing: 1px;
+}
+.bg-near-black {
+    background-color: #1a1a1a !important; /* Hitam yang lebih soft */
+}

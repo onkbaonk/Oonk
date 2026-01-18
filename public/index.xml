@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jurnal Personal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jurnal Personal</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menjelajahi Estetika Klasik Modern</title>
+      <link>http://localhost:1313/posts/halo-dunia/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/halo-dunia/</guid>
+      <description>&lt;p&gt;Selamat datang di jurnal saya. Di sini, kita akan membahas bagaimana teknologi&#xA;dan desain bisa berjalan beriringan.&lt;/p&gt;&#xA;&lt;p&gt;Ini adalah isi tulisan yang lebih panjang. Dengan menambahkan tag &lt;code&gt;more&lt;/code&gt; di atas,&#xA;halaman depan blog Anda akan tetap rapi dan hanya menampilkan ringkasannya saja.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
