@@ -1,27 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'id-id'
-title = 'Jurnal Personal'
+baseURL = 'https://onkbaonk.github.io/Oonk/'
+languageCode = 'en-us'
+title = 'Blog Oonk'
 theme = 'ananke'
-
-[params]
-  background_color_class = "bg-near-black"
-  # Mengubah warna teks judul di header
-  text_color = "text-gray"
-  # Mengubah warna tombol "Read More" (Klasik Modern: Hitam/Putih)
-  # 'ba' = border all, 'bw1' = border width, 'b--white' = border warna putih
-  custom_config = "ba bw1 b--white"
-  # ... parameter lainnya ...
-  #custom_css = ["css/custom.css"]
-[menu]
-  [[menu.main]]
-    name = "Beranda"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Tulisan"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
-    name = "Tentang"
-    url = "/about/"
-    weight = 3
