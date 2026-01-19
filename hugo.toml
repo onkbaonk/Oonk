@@ -2,3 +2,17 @@ baseURL = 'https://onkbaonk.github.io/Oonk/'
 languageCode = 'en-us'
 title = 'Blog Oonk'
 theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menu.main]]
+    name = 'Arsip'
+    pageRef = '/posts'
+    weight = 20
+
+[params]
+  background_color_class = 'bg-black'
