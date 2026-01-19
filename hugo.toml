@@ -3,16 +3,20 @@ languageCode = 'en-us'
 title = 'Blog Oonk'
 theme = 'ananke'
 
-[menu]
-  [[menu.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-  [[menu.main]]
-    name = 'Arsip'
-    pageRef = '/posts'
-    weight = 20
+[[menu.main]]
+  name = "Semua Artikel"
+  url = "/posts/"
+  weight = 2
 
+[[menu.main]]
+  name = "Tentang Saya"
+  url = "/about/"
+  weight = 3
+  
 [params]
   background_color_class = 'bg-black'
