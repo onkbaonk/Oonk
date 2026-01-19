@@ -17,3 +17,22 @@ Saya adalah seorang penjelajah digital yang menyukai kesederhanaan. Blog ini dib
 > "Keindahan sejati terletak pada kesederhanaan yang bermakna."
 
 Jika ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi saya melalui media sosial.
+
+
+
+---
+title: "Tentang Saya"
+date: 2026-01-19
+draft: false
+---
+
+# Halo, Saya Oonk! 👋
+
+Selamat datang di jurnal pribadi saya. Saya adalah seorang antusias teknologi yang senang mengeksplorasi hal baru melalui **Termux** dan **Hugo**.
+
+### Apa yang saya bahas di sini?
+* Tutorial Teknologi
+* Catatan Harian
+* Eksperimen Coding
+
+Terima kasih sudah berkunjung!
