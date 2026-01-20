@@ -9,7 +9,7 @@ theme = 'ananke'
   weight = 1
 
 [[menu.main]]
-  name = "Semua Artikel"
+  name = "arsip"
   url = "/posts/"
   weight = 2
 
@@ -20,3 +20,4 @@ theme = 'ananke'
   
 [params]
   background_color_class = 'bg-black'
+  custom_js = ["https://identity.netlify.com/v1/netlify-identity-widget.js"]

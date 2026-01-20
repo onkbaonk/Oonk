@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: onkbaonk/Oonk # Pastikan ini nama repo Anda di GitHub
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "blog"
+    label: "Artikel"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Judul", name: "title", widget: "string"}
+      - {label: "Tanggal", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Isi Konten", name: "body", widget: "markdown"}
