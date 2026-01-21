@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: onkbaonk/Oonk # Pastikan ini nama repo Anda di GitHub
+  name: git_gateway
   branch: main
 
 media_folder: "static/images"

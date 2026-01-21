@@ -15,5 +15,12 @@
       <guid>https://onkbaonk.github.io/Oonk/posts/halo-dunia/</guid>
       <description>&lt;p&gt;Selamat datang di jurnal saya. Di sini, kita akan membahas bagaimana teknologi&#xA;dan desain bisa berjalan beriringan.&lt;/p&gt;&#xA;&lt;p&gt;Ini adalah isi tulisan yang lebih panjang. Dengan menambahkan tag &lt;code&gt;more&lt;/code&gt; di atas,&#xA;halaman depan blog Anda akan tetap rapi dan hanya menampilkan ringkasannya saja.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</guid>
+      <description>&lt;p&gt;ngetes&#xA;apa benar&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
