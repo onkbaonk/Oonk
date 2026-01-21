@@ -46,6 +46,13 @@
       <time class="f6 mv4 dib tracked" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
         {{- .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) -}}
       </time>
+<div class="mt3">
+  {{ range .Params.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="ba b--black-20 dw1 br2 pa1 no-underline black-60 hover-black">
+      {{ . }}
+    </a>
+  {{ end }}
+</div>
       {{end}}
 
       {{/*
