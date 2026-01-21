@@ -6,21 +6,42 @@
     <description>Recent content in Posts on Blog Oonk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:58:00 +0700</lastBuildDate>
     <atom:link href="https://onkbaonk.github.io/Oonk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testingan</title>
+      <link>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</link>
+      <pubDate>Wed, 21 Jan 2026 15:58:00 +0700</pubDate>
+      <guid>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</guid>
+      <description>&lt;p&gt;ngetes&#xA;apa benar&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pengujian </title>
+      <link>https://onkbaonk.github.io/Oonk/posts/pengujian/</link>
+      <pubDate>Wed, 21 Jan 2026 15:57:00 +0700</pubDate>
+      <guid>https://onkbaonk.github.io/Oonk/posts/pengujian/</guid>
+      <description>&lt;p&gt;Pengujian kategori&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tes</title>
+      <link>https://onkbaonk.github.io/Oonk/posts/tes/</link>
+      <pubDate>Wed, 21 Jan 2026 15:40:00 +0700</pubDate>
+      <guid>https://onkbaonk.github.io/Oonk/posts/tes/</guid>
+      <description>&lt;p&gt;Percobaan dan percobaan&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;karna biar bisa terwujud hidup harus berani mencoba, tapi asalkan jangan mencoba hal yang buruk&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Halo dunia</title>
+      <link>https://onkbaonk.github.io/Oonk/posts/halo-dunia-1/</link>
+      <pubDate>Wed, 21 Jan 2026 15:13:00 +0700</pubDate>
+      <guid>https://onkbaonk.github.io/Oonk/posts/halo-dunia-1/</guid>
+      <description>&lt;p&gt;Hai .. apa kabar semuanya&lt;/p&gt;&#xA;&lt;p&gt;Akhirnya terwujud juga ke inginan dengan perjuangan yang panjang.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Menjelajahi Estetika Klasik Modern</title>
       <link>https://onkbaonk.github.io/Oonk/posts/halo-dunia/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://onkbaonk.github.io/Oonk/posts/halo-dunia/</guid>
       <description>&lt;p&gt;Selamat datang di jurnal saya. Di sini, kita akan membahas bagaimana teknologi&#xA;dan desain bisa berjalan beriringan.&lt;/p&gt;&#xA;&lt;p&gt;Ini adalah isi tulisan yang lebih panjang. Dengan menambahkan tag &lt;code&gt;more&lt;/code&gt; di atas,&#xA;halaman depan blog Anda akan tetap rapi dan hanya menampilkan ringkasannya saja.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://onkbaonk.github.io/Oonk/posts/artikel-baru/</guid>
-      <description>&lt;p&gt;ngetes&#xA;apa benar&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

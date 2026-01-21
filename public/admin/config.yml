@@ -16,3 +16,8 @@ collections:
       - {label: "Tanggal", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Isi Konten", name: "body", widget: "markdown"}
+      - label: "Kategori"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: ["Cerita", "Teknologi", "Hobi", "Catatan"]
