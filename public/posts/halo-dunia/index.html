@@ -60,6 +60,7 @@
       
     
 	
+   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head><body class="ma0 avenir bg-near-white production is-page is-page page-halo-dunia">
     
    
@@ -166,5 +167,16 @@ halaman depan blog Anda akan tetap rapi dan hanya menampilkan ringkasannya saja.
   </div>
 </footer>
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
   </body>
 </html>
